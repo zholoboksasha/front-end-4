@@ -1,0 +1,15 @@
+body{
+    color: lime;
+}
+.some-class {
+    color: orangered;
+}
+ul li {
+    color: red;
+}
+ol{
+    color: blueviolet;
+}
+[lang] {
+    color:darkolivegreen;
+}
